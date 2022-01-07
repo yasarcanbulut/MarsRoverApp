@@ -1,0 +1,16 @@
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\bin\Debug\net5.0\MarsRoverApp.exe
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\bin\Debug\net5.0\MarsRoverApp.deps.json
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\bin\Debug\net5.0\MarsRoverApp.runtimeconfig.json
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\bin\Debug\net5.0\MarsRoverApp.runtimeconfig.dev.json
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\bin\Debug\net5.0\MarsRoverApp.dll
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\bin\Debug\net5.0\ref\MarsRoverApp.dll
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\bin\Debug\net5.0\MarsRoverApp.pdb
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\obj\Debug\net5.0\MarsRoverApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\obj\Debug\net5.0\MarsRoverApp.AssemblyInfoInputs.cache
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\obj\Debug\net5.0\MarsRoverApp.AssemblyInfo.cs
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\obj\Debug\net5.0\MarsRoverApp.csproj.CoreCompileInputs.cache
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\obj\Debug\net5.0\MarsRoverApp.dll
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\obj\Debug\net5.0\ref\MarsRoverApp.dll
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\obj\Debug\net5.0\MarsRoverApp.pdb
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\obj\Debug\net5.0\MarsRoverApp.genruntimeconfig.cache
+C:\Users\yasar.canbulut\Desktop\rover\MarsRoverApp\MarsRoverApp\obj\Debug\net5.0\MarsRoverApp.csproj.AssemblyReference.cache
